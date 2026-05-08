@@ -11,7 +11,10 @@ function App() {
 
   return (
     <div className="">
-      <div className=""></div> {/**Hero section */}
+      <div className="">
+        <Hero />  
+      </div> {/**Hero section */}
+      
       <div className=""></div> {/**Search button */}
       <div className=""></div> {/**Landing page */}
       <div className=""></div> {/**Form */}
